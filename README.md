@@ -5,3 +5,13 @@ A system of prewritten playwrights that can be called via a readline interface. 
 borrow "BOOK_NAME_HERE" on Libby
 <br/>
 play "SONG/VIDEO NAME HERE" on youtube
+
+# Install and Run
+
+```
+git clone https://github.com/RishaanDevz/CLI-Playwright
+cd CLI-Playwright
+npm init -y
+npm install
+node cli
+```
