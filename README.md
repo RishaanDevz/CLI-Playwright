@@ -4,4 +4,4 @@ A system of prewritten playwrights that can be called via a readline interface. 
 # Current Commands
 borrow "BOOK_NAME_HERE" on Libby
 <br/>
-play "SONG/VIDEO NAME HERE"
+play "SONG/VIDEO NAME HERE" on youtube
