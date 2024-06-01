@@ -1,7 +1,7 @@
 // cli.js
 const readline = require('readline');
 const { playSong } = require('./youtube');
-const { borrowBook } = require('./libbyborrowing');
+const { borrowBook } = require('./libby');
 
 const rl = readline.createInterface({
     input: process.stdin,
